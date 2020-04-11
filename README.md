@@ -5,9 +5,9 @@
 - 1.2 Linux系统简介-开源软件简介`Done`
 - 1.3 Linux系统简介-Linux应用领域`Done`
 - 1.4 Linux系统简介-Linux学习方法`Done`
-- 2.1 Linux系统安装-VMware虚拟机安装与使用
-- 2.2 Linux系统安装-系统分区
-- 2.3 Linux系统安装-Linux系统安装
+- 2.1 Linux系统安装-VMware虚拟机安装与使用`Done`
+- 2.2 Linux系统安装-系统分区`Done`
+- 2.3 Linux系统安装-Linux系统安装`Done`
 - 2.4 Linux系统安装-远程登录管理工具
 - 3.1 给初学者的建议-注意事项
 - 3.2 给初学者的建议-服务器管理和维护建议
