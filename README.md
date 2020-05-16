@@ -86,7 +86,7 @@
 - [11.3 Shell编程-字符处理命令](doc/11.3.md)
 - [11.4 Shell编程-条件判断](doc/11.4.md)
 - [11.5.1 Shell编程-流程控制-if语句](doc/11.5.1.md)
-- 11.5.2 Shell编程-流程控制-case语句
+- [11.5.2 Shell编程-流程控制-case语句](doc/11.5.2.md)
 - 11.5.3 Shell编程-流程控制-for循环
 - 11.5.4 Shell编程-流程控制-while循环与until循环
 - 12.1 Linux服务管理-服务分类
