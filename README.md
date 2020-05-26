@@ -1,7 +1,7 @@
 # linuxArea
 
 - [1.1.1 Linux系统简介-UNIX发展历史和发行版本](doc/1.1.1.md)
-- 1.1.2 Linux系统简介-Linux发展历史和发行版本`Done`
+- [1.1.2 Linux系统简介-Linux发展历史和发行版本](doc/1.1.2.md)
 - 1.2 Linux系统简介-开源软件简介`Done`
 - 1.3 Linux系统简介-Linux应用领域`Done`
 - 1.4 Linux系统简介-Linux学习方法`Done`
