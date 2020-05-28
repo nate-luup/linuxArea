@@ -3,7 +3,7 @@
 - [1.1.1 Linux系统简介-UNIX发展历史和发行版本](doc/1.1.1.md)
 - [1.1.2 Linux系统简介-Linux发展历史和发行版本](doc/1.1.2.md)
 - [1.2 Linux系统简介-开源软件简介](doc/1.2.md)
-- 1.3 Linux系统简介-Linux应用领域`Done`
+- [1.3 Linux系统简介-Linux应用领域](doc/1.3.md)
 - 1.4 Linux系统简介-Linux学习方法`Done`
 - [2.1 Linux系统安装-VMware虚拟机安装与使用](doc/2.1.md)
 - 2.2 Linux系统安装-系统分区`Done`
