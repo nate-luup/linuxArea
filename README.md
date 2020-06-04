@@ -7,7 +7,7 @@
 - [1.4 Linux系统简介-Linux学习方法](doc/1.4.md)
 - [2.1 Linux系统安装-VMware虚拟机安装与使用](doc/2.1.md)
 - [2.2 Linux系统安装-系统分区](doc/2.2.md)
-- 2.3 Linux系统安装-Linux系统安装`Done`
+- [2.3 Linux系统安装-Linux系统安装](doc/2.3.md)
 - [2.4 Linux系统安装-远程登录管理工具](doc/2.4.md)
 - [3.1 给初学者的建议-注意事项](doc/3.1.md)
 - [3.2 给初学者的建议-服务器管理和维护建议](doc/3.2.md)
